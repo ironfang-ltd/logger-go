@@ -1,13 +1,13 @@
-# Ironfang Logger
-Simple logger written in Go
+# Logger
 
+Simple logger written in Go
 
 #### Example
 
 ```go
-package main 
+package main
 
-import "github.com/ironfang-go/logger"
+import "github.com/ironfang-ltd/logger-go"
 
 func main() {
 	l := logger.New()
